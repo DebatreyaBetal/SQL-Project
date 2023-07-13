@@ -1,0 +1,231 @@
+NOC,region,notes
+AFG,Afghanistan,null
+AHO,Curacao,Netherlands Antilles
+ALB,Albania,null
+ALG,Algeria,null
+AND,Andorra,null
+ANG,Angola,null
+ANT,Antigua,Antigua and Barbuda
+ANZ,Australia,Australasia
+ARG,Argentina,null
+ARM,Armenia,null
+ARU,Aruba,null
+ASA,American Samoa,null
+AUS,Australia,null
+AUT,Austria,null
+AZE,Azerbaijan,null
+BAH,Bahamas,null
+BAN,Bangladesh,null
+BAR,Barbados,null
+BDI,Burundi,null
+BEL,Belgium,null
+BEN,Benin,null
+BER,Bermuda,null
+BHU,Bhutan,null
+BIH,Bosnia and Herzegovina,null
+BIZ,Belize,null
+BLR,Belarus,null
+BOH,Czech Republic,Bohemia
+BOL,Boliva,null
+BOT,Botswana,null
+BRA,Brazil,null
+BRN,Bahrain,null
+BRU,Brunei,null
+BUL,Bulgaria,null
+BUR,Burkina Faso,null
+CAF,Central African Republic,null
+CAM,Cambodia,null
+CAN,Canada,null
+CAY,Cayman Islands,null
+CGO,Republic of Congo,null
+CHA,Chad,null
+CHI,Chile,null
+CHN,China,null
+CIV,Ivory Coast,null
+CMR,Cameroon,null
+COD,Democratic Republic of the Congo,null
+COK,Cook Islands,null
+COL,Colombia,null
+COM,Comoros,null
+CPV,Cape Verde,null
+CRC,Costa Rica,null
+CRO,Croatia,null
+CRT,Greece,Crete
+CUB,Cuba,null
+CYP,Cyprus,null
+CZE,Czech Republic,null
+DEN,Denmark,null
+DJI,Djibouti,null
+DMA,Dominica,null
+DOM,Dominican Republic,null
+ECU,Ecuador,null
+EGY,Egypt,null
+ERI,Eritrea,null
+ESA,El Salvador,null
+ESP,Spain,null
+EST,Estonia,null
+ETH,Ethiopia,null
+EUN,Russia,null
+FIJ,Fiji,null
+FIN,Finland,null
+FRA,France,null
+FRG,Germany,null
+FSM,Micronesia,null
+GAB,Gabon,null
+GAM,Gambia,null
+GBR,UK,null
+GBS,Guinea-Bissau,null
+GDR,Germany,null
+GEO,Georgia,null
+GEQ,Equatorial Guinea,null
+GER,Germany,null
+GHA,Ghana,null
+GRE,Greece,null
+GRN,Grenada,null
+GUA,Guatemala,null
+GUI,Guinea,null
+GUM,Guam,null
+GUY,Guyana,null
+HAI,Haiti,null
+HKG,China,Hong Kong
+HON,Honduras,null
+HUN,Hungary,null
+INA,Indonesia,null
+IND,India,null
+IOA,Individual Olympic Athletes,Individual Olympic Athletes
+IRI,Iran,null
+IRL,Ireland,null
+IRQ,Iraq,null
+ISL,Iceland,null
+ISR,Israel,null
+ISV,"Virgin Islands, US",Virgin Islands
+ITA,Italy,null
+IVB,"Virgin Islands, British",null
+JAM,Jamaica,null
+JOR,Jordan,null
+JPN,Japan,null
+KAZ,Kazakhstan,null
+KEN,Kenya,null
+KGZ,Kyrgyzstan,null
+KIR,Kiribati,null
+KOR,South Korea,null
+KOS,Kosovo,null
+KSA,Saudi Arabia,null
+KUW,Kuwait,null
+LAO,Laos,null
+LAT,Latvia,null
+LBA,Libya,null
+LBR,Liberia,null
+LCA,Saint Lucia,null
+LES,Lesotho,null
+LIB,Lebanon,null
+LIE,Liechtenstein,null
+LTU,Lithuania,null
+LUX,Luxembourg,null
+MAD,Madagascar,null
+MAL,Malaysia,null
+MAR,Morocco,null
+MAS,Malaysia,null
+MAW,Malawi,null
+MDA,Moldova,null
+MDV,Maldives,null
+MEX,Mexico,null
+MGL,Mongolia,null
+MHL,Marshall Islands,null
+MKD,Macedonia,null
+MLI,Mali,null
+MLT,Malta,null
+MNE,Montenegro,null
+MON,Monaco,null
+MOZ,Mozambique,null
+MRI,Mauritius,null
+MTN,Mauritania,null
+MYA,Myanmar,null
+NAM,Namibia,null
+NBO,Malaysia,North Borneo
+NCA,Nicaragua,null
+NED,Netherlands,null
+NEP,Nepal,null
+NFL,Canada,Newfoundland
+NGR,Nigeria,null
+NIG,Niger,null
+NOR,Norway,null
+NRU,Nauru,null
+NZL,New Zealand,null
+OMA,Oman,null
+PAK,Pakistan,null
+PAN,Panama,null
+PAR,Paraguay,null
+PER,Peru,null
+PHI,Philippines,null
+PLE,Palestine,null
+PLW,Palau,null
+PNG,Papua New Guinea,null
+POL,Poland,null
+POR,Portugal,null
+PRK,North Korea,null
+PUR,Puerto Rico,null
+QAT,Qatar,null
+RHO,Zimbabwe,null
+ROT,NA,Refugee Olympic Team
+ROU,Romania,null
+RSA,South Africa,null
+RUS,Russia,null
+RWA,Rwanda,null
+SAA,Germany,null
+SAM,Samoa,null
+SCG,Serbia,Serbia and Montenegro
+SEN,Senegal,null
+SEY,Seychelles,null
+SIN,Singapore,null
+SKN,Saint Kitts,Turks and Caicos Islands
+SLE,Sierra Leone,null
+SLO,Slovenia,null
+SMR,San Marino,null
+SOL,Solomon Islands,null
+SOM,Somalia,null
+SRB,Serbia,null
+SRI,Sri Lanka,null
+SSD,South Sudan,null
+STP,Sao Tome and Principe,null
+SUD,Sudan,null
+SUI,Switzerland,null
+SUR,Suriname,null
+SVK,Slovakia,null
+SWE,Sweden,null
+SWZ,Swaziland,null
+SYR,Syria,null
+TAN,Tanzania,null
+TCH,Czech Republic,null
+TGA,Tonga,null
+THA,Thailand,null
+TJK,Tajikistan,null
+TKM,Turkmenistan,null
+TLS,Timor-Leste,null
+TOG,Togo,null
+TPE,Taiwan,null
+TTO,Trinidad,Trinidad and Tobago
+TUN,Tunisia,null
+TUR,Turkey,null
+TUV,NA,Tuvalu
+UAE,United Arab Emirates,null
+UAR,Syria,United Arab Republic
+UGA,Uganda,null
+UKR,Ukraine,null
+UNK,NA,Unknown
+URS,Russia,null
+URU,Uruguay,null
+USA,USA,null
+UZB,Uzbekistan,null
+VAN,Vanuatu,null
+VEN,Venezuela,null
+VIE,Vietnam,null
+VIN,Saint Vincent,null
+VNM,Vietnam,null
+WIF,Trinidad,West Indies Federation
+YAR,Yemen,North Yemen
+YEM,Yemen,null
+YMD,Yemen,South Yemen
+YUG,Serbia,Yugoslavia
+ZAM,Zambia,null
+ZIM,Zimbabwe,null
