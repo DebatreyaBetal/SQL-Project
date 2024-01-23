@@ -1,2 +1,2 @@
-The main aim of this analysis was to find out the growth in the performance of a country in the Olympics over the years. 
-With the Help of such an Analysis, any player can check their progress record and can also have a look at their opponent's progress.
+The main goal of this analysis was to see how well a country has been doing in the Olympics over the years. 
+By doing this kind of analysis, countries can easily check their progress throughout.
